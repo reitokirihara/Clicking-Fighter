@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AD9D950220794D9200E34EAA /* Clicking Fighter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clicking Fighter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD9D950220794D9200E34EAA /* Clicking Legend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clicking Legend.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD9D950520794D9200E34EAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD9D950720794D9200E34EAA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		AD9D950A20794D9200E34EAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		AD9D94F920794D9200E34EAA = {
 			isa = PBXGroup;
 			children = (
-				AD9D950420794D9200E34EAA /* Clicking Fighter */,
+				AD9D950420794D9200E34EAA /* Clicking Legend */,
 				AD9D950320794D9200E34EAA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		AD9D950320794D9200E34EAA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AD9D950220794D9200E34EAA /* Clicking Fighter.app */,
+				AD9D950220794D9200E34EAA /* Clicking Legend.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AD9D950420794D9200E34EAA /* Clicking Fighter */ = {
+		AD9D950420794D9200E34EAA /* Clicking Legend */ = {
 			isa = PBXGroup;
 			children = (
 				AD9D950520794D9200E34EAA /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				AD9D950E20794D9200E34EAA /* LaunchScreen.storyboard */,
 				AD9D951120794D9200E34EAA /* Info.plist */,
 			);
-			path = "Clicking Fighter";
+			path = "Clicking Legend";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AD9D950120794D9200E34EAA /* Clicking Fighter */ = {
+		AD9D950120794D9200E34EAA /* Clicking Legend */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AD9D951420794D9200E34EAA /* Build configuration list for PBXNativeTarget "Clicking Fighter" */;
+			buildConfigurationList = AD9D951420794D9200E34EAA /* Build configuration list for PBXNativeTarget "Clicking Legend" */;
 			buildPhases = (
 				AD9D94FE20794D9200E34EAA /* Sources */,
 				AD9D94FF20794D9200E34EAA /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Clicking Fighter";
+			name = "Clicking Legend";
 			productName = "Clicking Fighter";
-			productReference = AD9D950220794D9200E34EAA /* Clicking Fighter.app */;
+			productReference = AD9D950220794D9200E34EAA /* Clicking Legend.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AD9D94FD20794D9200E34EAA /* Build configuration list for PBXProject "Clicking Fighter" */;
+			buildConfigurationList = AD9D94FD20794D9200E34EAA /* Build configuration list for PBXProject "Clicking Legend" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AD9D950120794D9200E34EAA /* Clicking Fighter */,
+				AD9D950120794D9200E34EAA /* Clicking Legend */,
 			);
 		};
 /* End PBXProject section */
@@ -275,7 +275,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2KMTV58ML6;
 				INFOPLIST_FILE = "Clicking Fighter/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Clicking-Fighter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -289,7 +291,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2KMTV58ML6;
 				INFOPLIST_FILE = "Clicking Fighter/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.Clicking-Fighter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -301,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AD9D94FD20794D9200E34EAA /* Build configuration list for PBXProject "Clicking Fighter" */ = {
+		AD9D94FD20794D9200E34EAA /* Build configuration list for PBXProject "Clicking Legend" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AD9D951220794D9200E34EAA /* Debug */,
@@ -310,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AD9D951420794D9200E34EAA /* Build configuration list for PBXNativeTarget "Clicking Fighter" */ = {
+		AD9D951420794D9200E34EAA /* Build configuration list for PBXNativeTarget "Clicking Legend" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AD9D951520794D9200E34EAA /* Debug */,

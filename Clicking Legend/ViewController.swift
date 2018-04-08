@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Clicking Fighter
+//  Clicking Legend
 //
 //  Created by UCode on 4/7/18.
 //  Copyright © 2018 UCode. All rights reserved.
